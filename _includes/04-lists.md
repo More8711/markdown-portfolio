@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# This is my List
+  <body>
+    <ol>
+      <li> Finish Github courses </li>
+      <li> Start on Khan Accademy </li>
+   </ol>
+  </body>
+  
